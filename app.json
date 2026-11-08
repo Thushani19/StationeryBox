@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "StationeryBox",
+    "slug": "stationerybox",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5F7FB"
+    },
+    "android": {
+      "package": "com.stationerybox.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
